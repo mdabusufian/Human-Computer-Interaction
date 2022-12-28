@@ -1,4 +1,4 @@
-# Human-Computer-Interaction
+# Project Details
 
 ## "We must design for the way people behave, not for how we would wish them to behave" --Donald A. Norman
 
